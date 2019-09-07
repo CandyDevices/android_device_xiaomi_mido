@@ -1,4 +1,9 @@
 [
+  {
+    "repository" : "vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch": "c9.0"
+  },
  {
    "repository": "android_packages_resources_devicesettings",
    "target_path": "packages/resources/devicesettings"
